@@ -1,10 +1,10 @@
 ## 👋gxlb publish some GO base extends libraries
 
-### X standard libraries
+### - X standard libraries
 
-### networks
+### - networks
 
-### GO generic
+### - GO generic
 
 <!--
 
