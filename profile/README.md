@@ -1,10 +1,10 @@
-## 👋gxlb publish some GO base extends libraries
+# [gxlb](https://github.com/gxlb) publish some [GO](https://github.com/golang) extends base libraries 👋
 
-### - X standard libraries
+- extends standard libraries
 
-### - networks
+- networks
 
-### - GO generic
+- GO generic
 
 <!--
 
